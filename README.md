@@ -11,4 +11,4 @@ It's responsibilities are:
 - Clone this repository and build with maven.
 
 #### Other services that are used
-- Sanda-Tournaments
+- [sanda-tournaments](https://github.com/ordina-jworks/cdc-sanda-tounaments)
