@@ -1,4 +1,4 @@
-# Sgit anda-registrations
+# Sanda-registrations
 Hands-on session about Consumer-driven Contract Testing.
 
 The service Sanda-registrations handles registrations of the fighters.
